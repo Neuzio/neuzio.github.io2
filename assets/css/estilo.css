@@ -1,0 +1,16 @@
+:root{
+    --black: black;
+    --primary: rgb(139, 214, 243);
+--secondary: rgb(211, 78, 160);
+--success: rgb(23, 168, 23);
+--warning: gold;
+--danger: red;
+
+}
+body{
+background: var(--black);
+}
+.txt-primary{
+    color: var(--primary);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
